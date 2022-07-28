@@ -9,7 +9,6 @@ var app=express();
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
-<h2>This is simple project</h2>
 
 //associate router
 router(app);
